@@ -17,3 +17,8 @@ int main()
      printf("the number is not a perfect number\n");
      return 0;
      }
+
+
+
+
+
